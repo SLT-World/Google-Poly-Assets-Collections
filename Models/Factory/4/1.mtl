@@ -1,0 +1,886 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_01
+Kd 0.227451 0.227451 0.227451
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Color_01
+Kd 0.227451 0.227451 0.227451
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Chris_01
+Kd 0.156863 0.14902 0.203922
+
+newmtl Chris_02
+Kd 0.482353 0.462745 0.462745
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Pa
+Kd 0.439216 0.392157 0.290196
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sk
+Kd 0.752941 0.643137 0.45098
+
+newmtl Chris_01
+Kd 0.156863 0.14902 0.203922
+
+newmtl Chris_02
+Kd 0.482353 0.462745 0.462745
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Pa
+Kd 0.439216 0.392157 0.290196
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sk
+Kd 0.752941 0.643137 0.45098
+
+newmtl Chris_01
+Kd 0.156863 0.14902 0.203922
+
+newmtl Chris_02
+Kd 0.482353 0.462745 0.462745
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Pa
+Kd 0.439216 0.392157 0.290196
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sk
+Kd 0.752941 0.643137 0.45098
+
+newmtl Chris_01
+Kd 0.156863 0.14902 0.203922
+
+newmtl Chris_02
+Kd 0.482353 0.462745 0.462745
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Pa
+Kd 0.439216 0.392157 0.290196
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sk
+Kd 0.752941 0.643137 0.45098
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Transl01
+Kd 0.501961 0.501961 0.501961
+
+newmtl Color_01
+Kd 0.227451 0.227451 0.227451
+
+newmtl Color_02
+Kd 0.886275 0.886275 0.886275
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl Color_F0
+Kd 0.4 0.8 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl 0079_Tea
+Kd 0 0.501961 0.501961
+
+newmtl 0079_Tea
+Kd 0 0.501961 0.501961
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl KIWA_Blu
+Kd 0 0.223529 0.4
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Color_04
+Kd 0.666667 0.666667 0.666667
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl Color_H0
+Kd 0 0.4 0.4
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_M0
+Kd 1 1 1
+
+newmtl Color_C0
+Kd 1 0.6 0.196078
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_H0
+Kd 0 0.4 0.4
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Chris_01
+Kd 0.156863 0.14902 0.203922
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl _Translu
+Kd 0.717647 0.717647 0.717647
+
+newmtl Transl02
+Kd 0.717647 0.717647 0.717647
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_01
+Kd 0.227451 0.227451 0.227451
+
+newmtl Color_03
+Kd 0.776471 0.776471 0.776471
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl Foregrou
+Kd 0 0 0
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl Chris_Sh
+Kd 0.0901961 0.0862745 0.0862745
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl Color_03
+Kd 0.776471 0.776471 0.776471
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl Color_03
+Kd 0.776471 0.776471 0.776471
+
+newmtl Color_E0
+Kd 1 1 0.8
+
+newmtl _1
+Kd 0.247059 0.247059 0.247059
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl Color_B0
+Kd 1 0.247059 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Excelta_
+Kd 0 0.615686 0.627451
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Chris_Ha
+Kd 0.278431 0.298039 0.290196
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_D0
+Kd 1 0.74902 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl Color_A0
+Kd 0.8 0 0
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Color_01
+Kd 0.227451 0.227451 0.227451
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Light_Wo
+Kd 0.803922 0.701961 0.568627
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Transluc
+Kd 0.8 0.921569 0.956863
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Transluc
+Kd 0.8 0.921569 0.956863
+
+newmtl 0100_Ste
+Kd 0.27451 0.509804 0.705882
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl FrontCol
+Kd 1 1 1
+
+newmtl Transluc
+Kd 0.8 0.921569 0.956863

@@ -1,0 +1,67 @@
+# Exported from 3D Builder
+
+newmtl GlassFarYerl
+Kd 0.999979 0.938288 0.399360
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255
+
+newmtl BlackL
+Kd 0.033101 0.033101 0.033101
+
+newmtl Allum
+Kd 0.868881 0.868881 0.868881
+
+newmtl material
+Kd 0.626659 0.023854 0.023854
+
+newmtl GlassFar
+Kd 0.868870 0.096260 0.096260
+
+newmtl GlassMain
+Kd 0.640000 0.640000 0.640000
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255
+
+newmtl BlackL
+Kd 0.033101 0.033101 0.033101
+
+newmtl GlassFarYerl
+Kd 0.999979 0.938288 0.399360
+
+newmtl Allum
+Kd 0.868881 0.868881 0.868881
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255
+
+newmtl BlackL
+Kd 0.033101 0.033101 0.033101
+
+newmtl Black
+Kd 0.029099 0.029099 0.029099
+
+newmtl BlackL
+Kd 0.033101 0.033101 0.033101
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255
+
+newmtl Body
+Kd 0.735657 0.714296 0.383209
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255
+
+newmtl BlackL
+Kd 0.033101 0.033101 0.033101
+
+newmtl Body
+Kd 0.735657 0.714296 0.383209
+
+newmtl Glass
+Kd 0.800000 0.800000 0.800000
+
+newmtl Grey
+Kd 0.220255 0.220255 0.220255

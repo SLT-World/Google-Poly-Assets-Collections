@@ -1,0 +1,69 @@
+# Exported from 3D Builder
+
+newmtl PisoBonde
+Kd 1.000000 1.000000 1.000000
+map_Kd PisoBonde_baseColor.png
+
+newmtl MadeiraVermelha
+Kd 1.000000 1.000000 1.000000
+map_Kd MadeiraVermelha_baseColor.jpg
+
+newmtl MadeiraVermelha
+Kd 1.000000 1.000000 1.000000
+map_Kd MadeiraVermelha_baseColor.jpg
+
+newmtl PisoBonde
+Kd 1.000000 1.000000 1.000000
+map_Kd PisoBonde_baseColor.png
+
+newmtl MetalCinza
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalCinza_baseColor.jpeg
+
+newmtl MetalCinza
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalCinza_baseColor.jpeg
+
+newmtl MetalVermelho
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalVermelho_baseColor.jpeg
+
+newmtl MetalDourado
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalDourado_baseColor.jpeg
+
+newmtl MadeiraAmarela
+Kd 1.000000 1.000000 1.000000
+map_Kd MadeiraAmarela_baseColor.jpg
+
+newmtl MadeiraMarrom
+Kd 1.000000 1.000000 1.000000
+map_Kd MadeiraMarrom_baseColor.jpg
+
+newmtl MadeiraAmarela
+Kd 1.000000 1.000000 1.000000
+map_Kd MadeiraAmarela_baseColor.jpg
+
+newmtl TabuasMarrom
+Kd 1.000000 1.000000 1.000000
+map_Kd TabuasMarrom_baseColor.jpg
+
+newmtl MetalVermelho
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalVermelho_baseColor.jpeg
+
+newmtl Material_131
+Kd 1.000000 1.000000 1.000000
+map_Kd Material_131_baseColor.png
+
+newmtl MetalDourado
+Kd 1.000000 1.000000 1.000000
+map_Kd MetalDourado_baseColor.jpeg
+
+newmtl Material_130
+Kd 1.000000 1.000000 1.000000
+map_Kd Material_131_baseColor.png
+
+newmtl Material_128
+Kd 1.000000 1.000000 1.000000
+map_Kd Material_131_baseColor.png

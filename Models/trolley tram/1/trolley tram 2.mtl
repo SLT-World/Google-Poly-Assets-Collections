@@ -1,0 +1,27 @@
+# Exported from 3D Builder
+
+newmtl lambert2SG
+Kd 0.010195 0.002710 0.000239
+
+newmtl material_0
+Kd 0.003363 0.000081 0.000081
+
+newmtl phongE5SG
+Kd 1.000000 1.000000 1.000000
+map_Kd phongE5SG_baseColor.png
+
+newmtl phongE7SG
+Kd 1.000000 1.000000 1.000000
+map_Kd phongE7SG_baseColor.png
+
+newmtl phongE6SG
+Kd 1.000000 1.000000 1.000000
+map_Kd phongE6SG_baseColor.png
+
+newmtl phongE8SG
+Kd 1.000000 1.000000 1.000000
+map_Kd phongE8SG_baseColor.png
+
+newmtl phongE5SG
+Kd 1.000000 1.000000 1.000000
+map_Kd phongE5SG_baseColor.png
